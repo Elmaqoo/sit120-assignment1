@@ -13,14 +13,14 @@ section {
 }
 
 .card-img {
-    position: absolute;
+    position: relative;
     overflow: hidden;
-    border-radius: 0;
+    border-radius: 10;
     z-index: 1;
 }
 
 .card-img img {
-    width: 100%;
+    width: 80;
     height: auto;
     display: block;
 }
